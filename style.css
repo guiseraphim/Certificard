@@ -69,6 +69,7 @@ body {
 .projetos-item a {
   color: #1c1c1c;
   text-decoration: none;
+  font-size: 18px;
 }
 
 .tema button {
@@ -98,6 +99,6 @@ body {
 .dark .tema button {
   background: #1c1c1c;
   color: #ffffff;
-  border: 2px solid #F7F7F7;
-box-sizing: border-box;
+  border: 2px solid #f7f7f7;
+  box-sizing: border-box;
 }
